@@ -42,3 +42,7 @@
         width: 100%;
     }
 }
+/* story  */
+.story:hover{
+    opacity: 0.8;
+}
